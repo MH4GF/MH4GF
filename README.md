@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on [Timee, inc.](https://timee.co.jp/)
 - 🌱 I’m currently learning Ruby, Go, Terraform, TypeScript, Next.js
-- 👯 My resume is [here](https://lapras.com/public/5WRQS4Q)
+- 👯 My resume is [here](https://github.com/MH4GF/resume)
