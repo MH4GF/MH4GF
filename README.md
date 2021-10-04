@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm miya!
 
-- 🔭 I’m currently working on [Timee, inc.](https://timee.co.jp/)
+- 🔭 I’m working as freelance engineer.
 - 🌱 I’m currently learning Ruby, Go, Terraform, TypeScript, Next.js
-- 👯 My resume is [here](https://github.com/MH4GF/resume)
+- 👯 My resume is [here](https://mh4gf.dev/resume)
